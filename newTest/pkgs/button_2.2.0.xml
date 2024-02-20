@@ -116,7 +116,7 @@
     <appMagic:includeProperty name="PressedColor" defaultValue="Self.Fill" />
     <appMagic:includeProperty name="HoverColor" defaultValue="Self.Color" />
     <appMagic:includeProperty name="DisplayMode" />
-    <appMagic:includeProperty name="Fill" defaultValue="RGBA(35, 31, 32, 1)" />
+    <appMagic:includeProperty name="Fill" defaultValue="RGBA(0, 0, 0, 1)" />
     <appMagic:includeProperty name="DisabledFill" defaultValue="ColorFade(Self.Fill, 70%)" />
     <appMagic:includeProperty name="PressedFill" defaultValue="Self.Color" />
     <appMagic:includeProperty name="HoverFill" defaultValue="ColorFade(Self.Fill, 20%)" />
