@@ -4,41 +4,77 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 5,
+    "Gallery1": 6,
+    "galleryTemplate1": 7,
     "Host": 3,
-    "Screen1": 4
+    "Image1": 8,
+    "NextArrow1": 11,
+    "Rectangle1": 13,
+    "Screen1": 4,
+    "Separator1": 12,
+    "Subtitle1": 10,
+    "Title1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/20/2024 11:40:46",
+  "HeaderLastSavedDateTimeUTC": "02/20/2024 11:43:42",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "94a7f49d-dede-4252-9d9a-22851dd7ff76": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/1fed25e1c62a459abb0efc72df2729f5\""
+  },
   "LocalDatabaseReferencesAsEmpty": true,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0,
+    "LargeList2": 1
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 0
+    "button": 0,
+    "gallery": 1,
+    "icon": 4,
+    "image": 3,
+    "label": 5,
+    "rectangle": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
     "Host": {},
-    "Screen1": {}
+    "Image1": {},
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Screen1": {},
+    "Separator1": {},
+    "Subtitle1": {},
+    "Title1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
+    "Gallery1": 1,
+    "galleryTemplate1": 2,
     "Host": 0,
-    "Screen1": 0
+    "Image1": 4,
+    "NextArrow1": 5,
+    "Rectangle1": 3,
+    "Screen1": 0,
+    "Separator1": 8,
+    "Subtitle1": 7,
+    "Title1": 6
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
