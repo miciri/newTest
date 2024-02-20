@@ -1,95 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Button1": 5,
-    "Gallery1": 6,
-    "galleryTemplate1": 7,
-    "Host": 3,
-    "Image1": 9,
-    "NextArrow1": 10,
-    "Rectangle1": 8,
-    "Screen1": 4,
-    "Separator1": 13,
-    "Subtitle1": 12,
-    "Title1": 11
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/20/2024 14:47:05",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {
-    "94a7f49d-dede-4252-9d9a-22851dd7ff76": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/1fed25e1c62a459abb0efc72df2729f5\""
-  },
-  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0,
-    "LargeList2": 1
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 0,
-    "gallery": 1,
-    "icon": 4,
-    "image": 3,
-    "label": 5,
-    "rectangle": 2
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Button1": {},
-    "Gallery1": {},
-    "galleryTemplate1": {},
-    "Host": {},
-    "Image1": {},
-    "NextArrow1": {},
-    "Rectangle1": {},
-    "Screen1": {},
-    "Separator1": {},
-    "Subtitle1": {},
-    "Title1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Button1": 0,
-    "Gallery1": 1,
-    "galleryTemplate1": 2,
-    "Host": 0,
-    "Image1": 4,
-    "NextArrow1": 5,
-    "Rectangle1": 3,
-    "Screen1": 0,
-    "Separator1": 8,
-    "Subtitle1": 7,
-    "Title1": 6
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.10855,
-    "ControlCount": {
-      "button": 1,
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "icon": 1,
-      "image": 1,
-      "label": 2,
-      "rectangle": 2,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 1.135118
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
