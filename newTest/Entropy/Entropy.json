@@ -17,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "06/24/2024 15:40:12",
+  "HeaderLastSavedDateTimeUTC": "06/24/2024 15:40:28",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "94a7f49d-dede-4252-9d9a-22851dd7ff76": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/009d6810f7d240bdb43ce3597bc740c2\""
@@ -35,12 +35,12 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 0,
-    "gallery": 1,
-    "icon": 4,
-    "image": 3,
-    "label": 5,
-    "rectangle": 2
+    "button": 5,
+    "gallery": 0,
+    "icon": 3,
+    "image": 2,
+    "label": 4,
+    "rectangle": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -60,17 +60,17 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 4,
-    "Gallery1": 5,
-    "galleryTemplate1": 6,
+    "Button1": 8,
+    "Gallery1": 0,
+    "galleryTemplate1": 1,
     "Host": 0,
-    "Image1": 8,
-    "NextArrow1": 9,
-    "Rectangle1": 7,
+    "Image1": 3,
+    "NextArrow1": 4,
+    "Rectangle1": 2,
     "Screen1": 3,
-    "Separator1": 12,
-    "Subtitle1": 11,
-    "Title1": 10
+    "Separator1": 7,
+    "Subtitle1": 6,
+    "Title1": 5
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
