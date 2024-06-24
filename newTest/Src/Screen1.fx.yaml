@@ -5,8 +5,8 @@ Screen1 As screen:
         Height: =292
         Text: ="Button GitHub change"
         Width: =402
-        X: =100
-        Y: =28
+        X: =64
+        Y: =168
         ZIndex: =1
 
     "Gallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver5.0'":
